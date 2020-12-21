@@ -437,8 +437,8 @@
  cityfall.84.b:0 "A great victory!"
  cityfall.84.c:0 "The war is taking an unexpected turn."
 
- cityfall.85.t:0 "[new_controller.GetAdjective] Units Enter Bangkok"
- cityfall.85.desc:0 "\n[old_controller.GetAdjective] citizens are shocked to learn the news of the fall of the city of Bankok (also known in Thai as "Krung Thep Maha Nakhon". The [new_controller.GetAdjective] have quickly secured the ministeries and the police stations in order to ensure a total control over the city."
+ cityfall.85.t:0 "[new_controller.GetAdjective] units enter Bangkok"
+ cityfall.85.desc:0 "\n[old_controller.GetAdjective] citizens are shocked to learn the news of the fall of the capital of Bangkok (also known in Thai as "Krung Thep Maha Nakhon". The [new_controller.GetAdjective] have swiftly secured the ministerial offices and the police stations in order to ensure total control over the city."
  cityfall.85.a:0 "The fight is not over!"
  cityfall.85.b:0 "A great victory!"
  cityfall.85.c:0 "The war is taking an unexpected turn." 
